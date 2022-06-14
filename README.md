@@ -6,4 +6,3 @@ note taking app
 ### local storage 
 ### modules
 ### classes
-### BEM, OOCSS
