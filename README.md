@@ -1,5 +1,5 @@
 # Notes-App
-note taking app
+[note taking app](https://kameronmazuda.github.io/Notes-App/)
 
 ## Requisites
 
